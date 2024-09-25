@@ -10,6 +10,6 @@ console.log(calcularAreaQuadrado(6));
 let numero = prompt("qual sua idade?");
 document.write(idade)
 let media = function(x, y, z){
-  return x+y + z / 3;
+  return x+y+z / 3;
     }
 console.log(media(2, 5, 6))
