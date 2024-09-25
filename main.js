@@ -7,7 +7,7 @@
       return lado*lado;
     }
     console.log (calcularAreaQuadrado (6));
-    let numero= prompt(color?)
+    let numero= prompt("qual sua idade?")
     document.write (prompt (?))
     let media=fuction (x,y,z){
     return x+y+z/3 ;
