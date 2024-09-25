@@ -8,6 +8,6 @@
     }
     console.log (calcularAreaQuadrado (6));
     let media= fuction (x,y,z) {
-    return x+y+z/3;
+    return x+y+z/3 ;
     }
-    console.log (media(2,5,6))
+    console.log (media (2,5,6))
