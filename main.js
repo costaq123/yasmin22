@@ -8,7 +8,7 @@ function calcularAreaQuadrado(lado) {
 }
 console.log(calcularAreaQuadrado(6));
 let numero = prompt("qual sua idade?");
-document.write(idade)
+document.write('qual é a sua idade?')
 let media = function(x, y, z){
   return x+y+z / 3;
     }
