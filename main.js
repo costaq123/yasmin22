@@ -10,6 +10,6 @@
     let numero= prompt(color?)
     document.write (prompt (?))
     let media=fuction (x,y,z){
-    return x+y+z/3 ;
+    return x+y+z/3;
     }
     console.log (media (2,5,6))
