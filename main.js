@@ -7,8 +7,8 @@ function calcularAreaQuadrado(lado) {
   return lado * lado;
 }
 console.log(calcularAreaQuadrado(6));
-let numero = prompt("qual sua idade?")
-let media = fuction(x, y, z){
+let numero = prompt("qual sua idade?");
+let media = function(x, y, z){
   return x+y + z / 3;
     }
 console.log(media(2, 5, 6))
