@@ -19,11 +19,11 @@ let estados=['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','P
 let i=0;
 while( i<estados.length) {
 console.log (i);
-console.log(estados[i])
+console.log(estados[i]);
 i=i+1;
 }
 for (let index = 0; index < estados.length; index++) {
-    console.log (i);
-    console.log(estados[i]);
+    console.log (index);
+    console.log(estados[index]);
     
 }
