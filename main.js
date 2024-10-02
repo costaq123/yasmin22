@@ -17,6 +17,7 @@
 
 let estados=['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO',]
 let i=0;
-white(i<5)
+white(i<5) {
 console.log *(i);
 i=i+1;
+}
